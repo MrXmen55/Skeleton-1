@@ -1,9 +1,0 @@
-C:\Users\User\Desktop\Nikita C#\KnightVSSkeleton-master\KnightVSSkeleton\bin\Debug\KnightVSSkeleton.exe.config
-C:\Users\User\Desktop\Nikita C#\KnightVSSkeleton-master\KnightVSSkeleton\obj\Debug\KnightVSSkeleton.csprojResolveAssemblyReference.cache
-C:\Users\User\Desktop\Nikita C#\KnightVSSkeleton-master\KnightVSSkeleton\obj\Debug\KnightVSSkeleton.MainForm.resources
-C:\Users\User\Desktop\Nikita C#\KnightVSSkeleton-master\KnightVSSkeleton\obj\Debug\KnightVSSkeleton.Properties.Resources.resources
-C:\Users\User\Desktop\Nikita C#\KnightVSSkeleton-master\KnightVSSkeleton\obj\Debug\KnightVSSkeleton.csproj.GenerateResource.Cache
-C:\Users\User\Desktop\Nikita C#\KnightVSSkeleton-master\KnightVSSkeleton\bin\Debug\KnightVSSkeleton.exe
-C:\Users\User\Desktop\Nikita C#\KnightVSSkeleton-master\KnightVSSkeleton\bin\Debug\KnightVSSkeleton.pdb
-C:\Users\User\Desktop\Nikita C#\KnightVSSkeleton-master\KnightVSSkeleton\obj\Debug\KnightVSSkeleton.exe
-C:\Users\User\Desktop\Nikita C#\KnightVSSkeleton-master\KnightVSSkeleton\obj\Debug\KnightVSSkeleton.pdb
