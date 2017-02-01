@@ -6,10 +6,10 @@ using System.Threading.Tasks;
 using System.Drawing;
 using System.Windows.Forms;
 
-class fighter
+class  fighter
 {
     private int health;
-    PictureBox sprite;
+    protected PictureBox sprite;
 
 
 
@@ -29,9 +29,9 @@ class fighter
 
 
 
-    private async void Die()
+    virtual protected async void Die()
     {
-        sprite.Image = Image.FromFile(@"C:\Users\User\Desktop\Nikita C#\KnightVSSkeleton-master\Assets\Skeleton_Death.gif");
+        sprite.Image = Image.FromFile(@"C:\Users\Mrxmen55\Skeleton-1\Assets\Skeleton_Death.gif");
         await Task.Delay(900);
         sprite.Enabled =false;
     }
